@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsfa
 asdf
 asdf
@@ -5,4 +6,8 @@ asdf
 2
 checkout
 checkout
+=======
+hot-fix
+hot-fix
+>>>>>>> hot_fix
 
